@@ -1,0 +1,22 @@
+:root {
+	color-scheme: dark;
+	--color_primany_000: #FFFFFF;
+	--color_primany_001: #64AC58;
+	--color_primany_002: #8F8F92;
+	--color_primany_003: #5860AC;
+	--color_primany_004: #202023;
+	--color_primany_005: #F25858;
+	--color_primany_006: #FFA200;
+	--color_primany_007: #18181B;
+	--color_primany_008: #373C66;
+	--color_primany_009: #376330;
+	--color_primany_010: #40B3E0;
+	--color_primany_011: #5865F2;
+	--color_primany_012: #795311;
+	--color_primany_013: #B5CFE4;
+	--color_primany_014: #D2E5F1;
+
+	&[data-theme = "1"] {
+		color-scheme: dark;
+	}
+}

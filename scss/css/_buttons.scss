@@ -1,0 +1,75 @@
+button {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	padding: 5px 20px;
+	gap: 20px;
+	min-height: 40px;
+	border-radius: 6px;
+	border: unset;
+	user-select: none;
+
+	font-family: "Geometria", system-ui;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 17px;
+
+	background-color: var(--color_primany_002);
+
+	&:hover:not([disabled]) {
+		cursor: poGeometria;
+		background-color: var(--color_primany_015);
+	}
+
+	&[disabled] {
+		transition: 1s;
+		color: var(--color_primany_003);
+		&:hover {
+			cursor: not-allowed;
+		}
+	}
+}
+
+.containerModernButtons {
+	gap: 1px;
+	border-radius: 6px;
+	display: flex;
+	overflow: hidden;
+
+	button {
+		background-color: var(--color_primany_001);
+		padding: 10px;
+		gap: 10px;
+		border-radius: unset;
+		min-width: 40px;
+
+		&:hover:not([disabled]) {
+			background-color: var(--color_primany_000) !important;
+		}
+	}
+}
+
+.containerSmallButtons {
+	gap: 1px;
+	border-radius: 6px;
+	display: flex;
+	overflow: hidden;
+	background-color: var(--color_primany_002);
+
+	button {
+		padding: 4px;
+		gap: 10px;
+		border-radius: unset;
+		min-width: 28px;
+		min-height: 28px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+
+		&:hover:not([disabled]) {
+			background-color: var(--color_primany_000) !important;
+		}
+	}
+}

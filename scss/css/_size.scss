@@ -1,0 +1,71 @@
+// FIXED
+
+
+
+// MIN WIDTH LOCK
+
+.min-w-fit {
+	min-width: fit-content;
+}
+
+.min-w-100 {
+	min-width: 100%;
+}
+
+// MAX WIDTH LOCK
+
+.max-w-1600px {
+	max-width: 1600px;
+}
+
+.max-w-750px {
+	max-width: 750px;
+}
+
+.max-w-320px {
+	max-width: 320px;
+}
+
+.max-w-260px {
+	max-width: 260px;
+}
+
+
+// MIN HEIGHT LOCK
+
+
+
+// WIDTH
+
+.w-100 {
+	width: 100%;
+}
+
+.w-100v {
+	width: 100vw;
+}
+
+.w-inherit {
+	width: inherit;
+}
+
+.w-fit {
+	width: fit-content;
+}
+
+// HEIGHT
+
+.h-100 {
+	height: 100%;
+}
+
+.h-100v {
+	height: 100vh;
+}
+
+.h-fit {
+	height: fit-content;
+}
+
+// MAX HEIGHT
+

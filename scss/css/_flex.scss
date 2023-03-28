@@ -1,0 +1,137 @@
+// VISIBILITY
+
+.hidden {
+	visibility: hidden;
+}
+
+
+// ISOLATION
+
+.iso {
+	isolation: isolate;
+}
+
+
+// DISPLAY
+
+.none {
+	display: none !important;
+}
+
+.flex {
+	display: flex;
+	width: inherit;
+	// By default, use sing-unset to disable
+	box-sizing: border-box;
+
+	&.scroll-X {
+		padding-bottom: 10px;
+	}
+}
+
+
+// DIRECTION
+
+.dir-column {
+	flex-direction: column;
+}
+
+.dir-row {
+	flex-direction: row;
+}
+
+.dir-column-rev {
+	flex-direction: column-reverse;
+}
+
+.dir-row-rev {
+	flex-direction: row-reverse;
+}
+
+
+// WRAP
+
+.wrap {
+	flex-wrap: wrap;
+}
+
+.nowrap {
+	flex-wrap: nowrap;
+}
+
+
+// ALIGN CONTENT
+
+.ac-center {
+	align-content: center;
+}
+
+.ac-end {
+	align-content: flex-end;
+}
+
+.ac-start {
+	align-content: flex-start;
+}
+
+.ac-spa_aro {
+	align-content: space-around;
+}
+
+.ac-spa_bet {
+	align-content: space-between
+}
+
+.ac-stretch {
+	align-content: stretch;
+}
+
+
+// JUSTIFY CONTENT
+
+.jc-center {
+	justify-content: center;
+}
+
+.jc-end {
+	justify-content: flex-end;
+}
+
+.jc-start {
+	justify-content: flex-start;
+}
+
+.jc-spa_aro {
+	justify-content: space-around;
+}
+
+.jc-spabet {
+	justify-content: space-between
+}
+
+.jc-spaeve {
+	justify-content: space-evenly;
+}
+
+
+// ALIGN ITEMS
+
+.ai-center {
+	align-items: center;
+}
+
+.ai-end {
+	align-items: flex-end;
+}
+
+.ai-start {
+	align-items: flex-start;
+}
+
+.ai-stretch {
+	align-items: stretch;
+}
+
+.ai-baseline {
+	align-items: baseline;
+}

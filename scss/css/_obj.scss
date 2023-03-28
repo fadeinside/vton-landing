@@ -1,0 +1,17 @@
+.obj-f-cover {
+	object-fit: cover;
+    background-size: cover;
+}
+
+.obj-f-none {
+	object-fit: none;
+}
+
+.obj-p-center {
+	object-position: center;
+	background-position: center;
+}
+
+.bg-s-cover {
+	background-size: cover !important;
+}
