@@ -36,18 +36,18 @@ img {
 ::-webkit-scrollbar {
 	width: 5px;
 	height: 5px;
-	background: var(--color_primany_000);
+	background: var(--color_primany_004);
 }
 
 ::-webkit-scrollbar-thumb {
 	background: var(--color_primany_002);
-	border: 1px solid var(--color_primany_001);
+	border: 1px solid var(--color_primany_004);
 
 	&:hover {
-		background: var(--color_primany_003);
+		background: var(--color_primany_002);
 	}
 	&:active {
-		border: 1px solid var(--color_primany_003);
+		border: 1px solid var(--color_primany_002);
 	}
 }
 
