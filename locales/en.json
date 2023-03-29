@@ -1,0 +1,39 @@
+{
+	"TEXT_SPOT.GROUPS": "spot<span class='col-001'>.gruops</span>",
+	"TEXT_SPOT.GROUPS_DETAIL": "spot<span class='col-001'>.gruops</span> - this is a unified system of projects created by a person with the nickname Struggle",
+
+	"TEXT_VTON.SELLER": "vton<span class='col-003'>.seller",
+	"TEXT_VTON.SELLER_DETAIL": "vton<span class='col-003'>.seller</span> - a set of services for the provision of various services",
+
+	"TEXT_VTON.VPN_DETAIL": "vton<span class='col-003'>.vpn</span> - vpn provider",
+	"TEXT_VTON.VPN_DETAIL_ITEM1": "Prices are lower<br>than most",
+	"TEXT_VTON.VPN_DETAIL_ITEM2": "We support<br>>40 countries",
+	"TEXT_VTON.VPN_DETAIL_ITEM3": "We will make a server<br>especially for you",
+	"TEXT_VTON.VPN_DETAIL_ITEM4": "The vpn is located on<br>our server",
+
+	"TEXT_VTON.SHOP_DETAIL": "vton<span class='col-003'>.shop</span> - electronic goods store",
+	"TEXT_VTON.SHOP_DETAIL_CLOSED": "Currently in development",
+
+	"TEXT_SPOT.SUB": "spot<span class='col-001'>.sub</span>",
+	"TEXT_SPOT.SUB_DETAIL": "spot<span class='col-001'>.sub</span> - online platform on the SubShield Minecraft server",
+	"TEXT_SPOT.SUB_DETAIL_ITEM1": "Public API",
+	"TEXT_SPOT.SUB_DETAIL_ITEM2": "Convenient marketplace for<br>sale of goods",
+	"TEXT_SPOT.SUB_DETAIL_ITEM3": "Wallet for<br>currency storage",
+	"TEXT_SPOT.SUB_DETAIL_ITEM4": "Exchange for searches<br>workers and jobs",
+	"TEXT_SPOT.SUB_SPOT.MARKETPLACE": "Spot<span class='col-001'>.marketplace</span>",
+	"TEXT_SPOT.SUB_SPOT.WALLET": "Spot<span class='col-001'>.wallet</span>",
+	"TEXT_SPOT.SUB_SPOT.WORK": "Spot<span class='col-001'>.work</span>",
+	"TEXT_SPOT.SUB_SPOT.ECOSYSTEM": "Spot<span class='col-001'>.ecosystem</span>",
+
+	"TEXT_CASO.SP": "caso<span class='col-006'>.sp</span>",
+	"TEXT_CASO.SP_DETAIL": "caso<span class='col-006'>.sp</span> - illegal casino on joint venture projects that works on crypt",
+	"TEXT_CASO.SP_DETAIL_ITEM1": "Crusher - stop in time to get a big prize",
+	"TEXT_CASO.SP_DETAIL_ITEM2": "Coin - guess which side the coin will fall on",
+	"TEXT_CASO.SP_DETAIL_ITEM3": "Roulette - guess what color will appear on the reel",
+
+	"TEXT_STUGLE_PROJECT": "The Stugle Project",
+	"TEXT_FOOTER_CONTACTS": "Contacts",
+	"TEXT_FOOTER_LINKS": "Links to projects",
+	"TEXT_FOOTER_LANGUAGE": "Language",
+	"TEXT_FOOTER_THEME": "Night theme"
+}

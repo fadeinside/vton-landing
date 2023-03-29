@@ -1,0 +1,39 @@
+{
+	"TEXT_SPOT.GROUPS": "spot<span class='col-001'>.gruops</span>",
+	"TEXT_SPOT.GROUPS_DETAIL": "spot<span class='col-001'>.gruops</span> - это единая система проектов, созданные человеком с ником Stugle",
+
+	"TEXT_VTON.SELLER": "vton<span class='col-003'>.seller",
+	"TEXT_VTON.SELLER_DETAIL": "vton<span class='col-003'>.seller</span> - комплекс сервисов по предоставлению разных услуг",
+
+	"TEXT_VTON.VPN_DETAIL": "vton<span class='col-003'>.vpn</span> - vpn провайдер",
+	"TEXT_VTON.VPN_DETAIL_ITEM1": "Цены ниже, чем<br>у большинства",
+	"TEXT_VTON.VPN_DETAIL_ITEM2": "Мы поддерживаем<br>>40 стран",
+	"TEXT_VTON.VPN_DETAIL_ITEM3": "Сделаем сервер<br>специально для вас",
+	"TEXT_VTON.VPN_DETAIL_ITEM4": "Vpn находится на<br>нашем сервере",
+
+	"TEXT_VTON.SHOP_DETAIL": "vton<span class='col-003'>.shop</span> - магазин электронных товаров",
+	"TEXT_VTON.SHOP_DETAIL_CLOSED": "В данный момент в разработке",
+
+	"TEXT_SPOT.SUB": "spot<span class='col-001'>.sub</span>",
+	"TEXT_SPOT.SUB_DETAIL": "spot<span class='col-001'>.sub</span> - онлайн площадка на майнкрафт сервере SubShield",
+	"TEXT_SPOT.SUB_DETAIL_ITEM1": "Общедоступное API",
+	"TEXT_SPOT.SUB_DETAIL_ITEM2": "Удобный маркетплейс для<br>продажи товаров",
+	"TEXT_SPOT.SUB_DETAIL_ITEM3": "Кошелёк для<br>хранения валюты",
+	"TEXT_SPOT.SUB_DETAIL_ITEM4": "Биржа для поисков<br>работников и работы",
+	"TEXT_SPOT.SUB_SPOT.MARKETPLACE": "Spot<span class='col-001'>.marketplace</span>",
+	"TEXT_SPOT.SUB_SPOT.WALLET": "Spot<span class='col-001'>.wallet</span>",
+	"TEXT_SPOT.SUB_SPOT.WORK": "Spot<span class='col-001'>.work</span>",
+	"TEXT_SPOT.SUB_SPOT.ECOSYSTEM": "Spot<span class='col-001'>.ecosystem</span>",
+
+	"TEXT_CASO.SP": "caso<span class='col-006'>.sp</span>",
+	"TEXT_CASO.SP_DETAIL": "caso<span class='col-006'>.sp</span> - нелегальное казино на проектах СП, которое работает на крипте",
+	"TEXT_CASO.SP_DETAIL_ITEM1": "Крашер - остановись вовремя, чтоб получить большой приз",
+	"TEXT_CASO.SP_DETAIL_ITEM2": "Монетка - угадай на какую сторону упадет монетка",
+	"TEXT_CASO.SP_DETAIL_ITEM3": "Рулетка - угадай какой цвет выпадет на барабане",
+
+	"TEXT_STUGLE_PROJECT": "Проект Stugle",
+	"TEXT_FOOTER_CONTACTS": "Связь",
+	"TEXT_FOOTER_LINKS": "Ссылки на проекты",
+	"TEXT_FOOTER_LANGUAGE": "Язык",
+	"TEXT_FOOTER_THEME": "Темная тема"
+}
