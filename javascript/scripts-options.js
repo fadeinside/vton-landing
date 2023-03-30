@@ -20,7 +20,7 @@ function toLoadLanguage() {
 };
 
 function toLoadTheme() {
-	const targets = "#ID_THEME_SWITCHER, #ID_THEME_SWITCHER_MOBILE, #ID_THEME_SWITCHER_HEADER";
+	const targets = "#ID_THEME_SWITCHER, #ID_THEME_SWITCHER_HEADER";
 	// Load local data
 	const key = "data-theme";
 	var loaded = localStorage.getItem(key);
@@ -32,7 +32,7 @@ function toLoadTheme() {
 
 	// If the theme was not loaded, then the default value was assigned
 	if (loaded == null) {
-		loaded = 0;
+		loaded = 1; // Dark theme by default
 		localStorage.setItem(key, loaded);
 	};
 

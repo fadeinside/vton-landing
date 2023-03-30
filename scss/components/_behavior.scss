@@ -1,3 +1,23 @@
+:root {
+	&[data-theme = "0"] {
+		.themeDark {
+			display: none !important;
+		}
+	}
+	&[data-theme = "1"] {
+		.themeLight {
+			display: none !important;
+		}
+	}
+}
+
+.forcePointer {
+	user-select: none;
+	&:hover {
+		cursor: pointer;
+	}
+}
+
 .crop {
 	overflow: hidden;
 }
